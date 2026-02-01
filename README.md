@@ -1,7 +1,8 @@
 # 📊 Imersão Dados Alura – Dashboard de Salários
 
 Acesse o **dashboard interativo online** aqui:  
-🌐 👉 https://imersaodasdsocomalura-fdpu6bg8wzpbu9nufh2the.streamlit.app/
+🌐 **Dashboard online:**
+[Acessar o Dashboard](https://imersaodasdsocomalura-fdpu6bg8wzpbu9nufh2the.streamlit.app/)
 
 Um painel de análise de salários na área de dados, construído com **Streamlit**, que permite explorar tendências globais de remuneração por cargo, senioridade, país, tipo de contrato e muito mais!
 
